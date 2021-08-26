@@ -13,8 +13,6 @@ We now have the points. We extract the colours from the image and bring the colo
 
 With the 3D points and their corresponding colours, we can generate a point cloud for a given stereo pair.
 
-Disparity Maps:
-https://iiitaphyd-my.sharepoint.com/:w:/g/personal/tanmay_garg_students_iiit_ac_in/EcOyf8eWhh9Kq5mvAVGKNWcBUgYUd_XVSEu9G1akoH03xg?e=1DmQPf
+[Disparity Maps](https://iiitaphyd-my.sharepoint.com/:w:/g/personal/tanmay_garg_students_iiit_ac_in/EcOyf8eWhh9Kq5mvAVGKNWcBUgYUd_XVSEu9G1akoH03xg?e=1DmQPf)
 
-open3D visualisation:
-https://iiitaphyd-my.sharepoint.com/:w:/g/personal/venkata_surya_students_iiit_ac_in/EQLH67uNjKVAgUEZMLOtCPABs7veaaGDpMuBur9PJ8a7bw?e=qochQM
+[Stereo Reconstruction](https://iiitaphyd-my.sharepoint.com/:w:/g/personal/venkata_surya_students_iiit_ac_in/EQLH67uNjKVAgUEZMLOtCPABs7veaaGDpMuBur9PJ8a7bw?e=qochQM)
